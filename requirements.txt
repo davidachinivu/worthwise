@@ -3,7 +3,7 @@
 # xgboost and scikit-learn are pinned to match the pickled artifacts.
 
 streamlit>=1.35.0
-xgboost==3.3.0
+xgboost>=2.0.0,<3.3.0
 scikit-learn==1.6.1
 joblib>=1.3.0
 shap>=0.45.0
