@@ -11,6 +11,10 @@ question to help you sit with your decision before you buy.
 
 **Model on Hugging Face:** https://huggingface.co/davidachinivu/worthwise-impulse-model
 
+## Model Training Notebook
+
+The full training process, EDA, feature engineering, model comparison, hyperparameter
+tuning, and SHAP analysis, is available in [`Collabnotebook/Purchase_Intent_Predictor.ipynb`](Collabnotebook/Purchase_Intent_Predictor.ipynb).
 ---
 
 ## How It Works
