@@ -15,6 +15,7 @@ question to help you sit with your decision before you buy.
 
 The full training process, EDA, feature engineering, model comparison, hyperparameter
 tuning, and SHAP analysis, is available in [`Collabnotebook/Purchase_Intent_Predictor.ipynb`](Collabnotebook/Purchase_Intent_Predictor.ipynb).
+
 ---
 
 ## How It Works
