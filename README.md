@@ -8,7 +8,8 @@ learned from real e-commerce browsing data. It then asks one AI-generated reflec
 question to help you sit with your decision before you buy.
 
 **Live app:** [add your deployed Streamlit URL here once live]
-**Model on Hugging Face:** [add your Hugging Face model repo link here]
+
+**Model on Hugging Face:** https://huggingface.co/davidachinivu/worthwise-impulse-model
 
 ---
 
