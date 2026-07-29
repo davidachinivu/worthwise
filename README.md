@@ -7,7 +7,7 @@ engaged you were, to estimate how "purchase-like" the session looks, based on pa
 learned from real e-commerce browsing data. It then asks one AI-generated reflective
 question to help you sit with your decision before you buy.
 
-**Live app:** [add your deployed Streamlit URL here once live]
+**Live app:** https://worthwise.streamlit.app/
 
 **Model on Hugging Face:** https://huggingface.co/davidachinivu/worthwise-impulse-model
 
